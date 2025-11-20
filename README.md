@@ -1,2 +1,2 @@
-# Rest-api-with-flask
-A simple Flask REST API for managing users with CRUD operations (GET, POST, PUT, DELETE). Data is stored in memory using a dictionary. Includes endpoints to add, view, update, and delete users. Built using Python and Flask. Easily testable using Postman
+# Flask User Management API
+Simple REST API using Flask with CRUD (GET, POST, PUT, DELETE) operations for user management. Data stored in memory. Test using Postman or Curl.
